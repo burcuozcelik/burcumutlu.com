@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: [Burcu O. Mutlu]
-logo: ["/photo.jpg"]
-show_downloads: ["false"]
+logo: /photo.jpg
+show_downloads: false
