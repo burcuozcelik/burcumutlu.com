@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Burcu Ozcelik Mutlu
 
-You can use the [editor on GitHub](https://github.com/burcuozcelik/burcumutlu.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+M.Sc. / Ph.D. Candidate
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+I am currently a Ph.D. intern at Pacific Northwest National Laboratory working with Sriram Krishnamoorthy on fault tolerance on high performance computing. I am a Ph.D. student at Polytechnic University of Catalonia since December 2015 under the supervision of Osman Unsal and Gokcen Kestor. Prior coming to Pacific Northwest National Laboratory, I worked as a research student at Barcelona Supercomputing Center (BSC) where I worked under the supervision of Osman Unsal and Adrian Cristal. In BSC, I worked on failure prediction and fault tolerance on high performance computing and was involved with MontBlanc project funded by European Union. I received my B.Sc. (2009) and M.Sc.(2012) degrees on Computer Science and Engineering from Sabanci University, Turkey. My masters work was focused on software related failure prediction under the supervision of Cemal Yilmaz.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Research Interests
 
-# Header 1
-## Header 2
-### Header 3
+Reliability, failure prediction, machine learning, approximate computation, high performance computing (HPC)
 
-- Bulleted
-- List
+### Publications
 
-1. Numbered
-2. List
+Burcu Ozcelik Mutlu, Gokcen Kestor, Joseph Manzano, Osman Unsal, Samrat Chatterjee, Sriram Krishnamoorthy. Characterization of the Impact of Soft Errors on Iterative Methods. 2018 IEEE 25th International Conference on High Performance Computing (HiPC), Bangalore, 2018.
 
-**Bold** and _Italic_ and `Code` text
+Gokcen Kestor, Burcu Ozcelik Mutlu, Joseph Manzano, Omer Subasi, Osman Unsal, and Sriram Krishnamoorthy. [Comparative analysis of soft-error detection strategies: A case study with iterative methods](https://dl.acm.org/citation.cfm?id=3203240). In Proceedings of the 15th ACM International Conference on Computing Frontiers (CF '18). ACM, New York, NY, USA, 173-182.
 
-[Link](url) and ![Image](src)
-```
+B. Ozcelik and C. Yilmaz. [Seer: A lightweight online failure prediction approach](https://ieeexplore.ieee.org/document/8029667). In 2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC), volume 1, pages624–625, July 2017.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+B. Ozcelik and C. Yilmaz.   [Seer: A lightweight online failure prediction approach](https://ieeexplore.ieee.org/document/7120143). IEEE Transactions on Software Engineering, 42(1):26–46, Jan 2016.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/burcuozcelik/burcumutlu.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+B. Ozcelik, K. Kalkan, and C. Yilmaz. [An approach for classifying program failures](https://ieeexplore.ieee.org/document/5617204). In Advances in System Testing and Validation Lifecycle (VALID), 2010 Second International Conference on,pages 93–98, 2010.
