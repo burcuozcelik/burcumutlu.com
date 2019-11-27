@@ -1,7 +1,7 @@
 
 ## Burcu Ozcelik Mutlu
 
-M.Sc. / Ph.D. Candidate
+Ph.D.
 
 
 I am currently a Ph.D. intern at Pacific Northwest National Laboratory working with Sriram Krishnamoorthy on fault tolerance on high performance computing. I am a Ph.D. student at Polytechnic University of Catalonia since December 2015 under the supervision of Osman Unsal and Gokcen Kestor. Prior coming to Pacific Northwest National Laboratory, I worked as a research student at Barcelona Supercomputing Center (BSC) where I worked under the supervision of Osman Unsal and Adrian Cristal. In BSC, I worked on failure prediction and fault tolerance on high performance computing and was involved with MontBlanc project funded by European Union. I received my B.Sc. (2009) and M.Sc.(2012) degrees on Computer Science and Engineering from Sabanci University, Turkey. My masters work was focused on software related failure prediction under the supervision of Cemal Yilmaz.
